@@ -1,0 +1,10 @@
+name = "Red Army Addons";
+// picture = "";
+hidePicture = "true";
+hideName = "false";
+actionName = "Discord";
+action = "https://discord.gg/UvkY2XM";
+description = "Red Army Addons - Version 0.1";
+overview  = "Red Army Addons - Version 0.1";
+// logo = "";
+// logoOver = "";
